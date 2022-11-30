@@ -2,7 +2,7 @@
 
 ### A pesquisa foi feita atráves de uma análise de sentimento usando Python e a rede social Twitter.
 
-Para executar os scripts é necessario ter o Python instalado e o Power BI para poder ver os gráficos.
+Para executar os scripts é necessário ter o Python instalado e o Power BI para poder ver os gráficos.
 
 ## Explicação do script feito em Python:
 
@@ -13,8 +13,7 @@ Para executar os scripts é necessario ter o Python instalado e o Power BI para 
 * Quinto bloco, este será realizado uma alteração na data e também será criado um novo dataframe com a junção da data e do sentimento, será dividido em positivo e negativo e logo em seguida será salvo em dois arquivos .xlsx separados para poderem ser utilizados no Power BI.
 * Do 6º bloco até o 14°, será realizado o mesmo procedimento para realizar a extração de dados dos seguintes candidatos: Bolsonaro, Ciro, Lula e Simone Tebet.
 * No bloco 15º será feita a extração dos dados da eleição feitos pelo jornal Poder360, na qual a parte selecionada para a pesquisa será a do instituto Data Folha. Nesse código o campo __billing_project_id=""__ requer o Id de um projeto no Google Cloud para realizar o download.
-* No bloco 16º acontecerá o filtro a respeito do dataframe criado para coletar as informações específicas, e será criado mais um arquivo .xlsx para ser utilizado no Power BI.
+* No bloco 16º, será o filtro a respeito do dataframe criado para coletar as informações específicas, e será criado mais um arquivo .xlsx para ser utilizado no Power BI.
 ## Link do Power BI:
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZjU1YTI3ZGMtN2Y3Ny00Mzc3LWE2ZjAtMTQ4YjhjMzUyZjcyIiwidCI6IjA0OTM1NTdlLTViYjQtNDVmOS1iNmRkLTdiMjI1OWYzYzMzOCJ9&pageName=ReportSection761bb02f22247301ec5a">Link para visualização do Power BI.</a>
-
